@@ -1,1 +1,1 @@
-This file creates a conflict because it is changed by A
+This file creates a conflict because it is changed by B
